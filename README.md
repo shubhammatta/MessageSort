@@ -1,29 +1,13 @@
-# README #
+Android app to sort messages based on e-commerce Transactions
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Read android messages.
 
-### What is this repository for? ###
+The app is in pretty raw phase.
+No fragments used uptil now.
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+The normal css for buttons is kept in one of folders.
 
-### How do I get set up? ###
-ANDROID APP TO SORT MESSAGES
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
+The app is good for beginners as code is easy to understand ... basic java.... along with basic intent.
 
 * SHUBHAM MATTA ----- AASHISH PATOLE
 * Other community or team contact

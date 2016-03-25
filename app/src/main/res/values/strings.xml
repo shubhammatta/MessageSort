@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SoftwareTech</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="titleApp">ŠÕRt</string>
+    <string name="title_activity_show_message">showMessage</string>
+    <string name="title_activity_sorted_sms">SortedSMS</string>
+</resources>
